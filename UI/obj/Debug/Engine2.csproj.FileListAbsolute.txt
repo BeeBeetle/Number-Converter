@@ -1,0 +1,6 @@
+C:\Users\squev\source\repos\Number Converter\Engine2\bin\Debug\Engine2.dll
+C:\Users\squev\source\repos\Number Converter\Engine2\bin\Debug\Engine2.pdb
+C:\Users\squev\source\repos\Number Converter\Engine2\obj\Debug\Engine2.csproj.AssemblyReference.cache
+C:\Users\squev\source\repos\Number Converter\Engine2\obj\Debug\Engine2.csproj.CoreCompileInputs.cache
+C:\Users\squev\source\repos\Number Converter\Engine2\obj\Debug\Engine2.dll
+C:\Users\squev\source\repos\Number Converter\Engine2\obj\Debug\Engine2.pdb
